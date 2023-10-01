@@ -23,6 +23,11 @@ lk21
 lxml
 httpx
 
+#render 
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.2
+
 # Google Drive
 google-api-core
 google-auth
